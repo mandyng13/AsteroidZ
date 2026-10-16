@@ -28,6 +28,7 @@ public class RigidBody : Component
     /// <param name="deltaTime"> Time since last frame.</param>
     public void Update(double deltaTime)
     {
+        // Todo: Do RigidBody simulations here
         Acceleration = Force / Mass;
         
         Velocity += Acceleration * (float)deltaTime;

@@ -29,19 +29,19 @@ public class ShipController(GameObject.Template shipExplosionTemplate) : Control
         //Todo Input fügt _rigidBody Kräfte hinzu
         if (state.IsKeyDown(Keys.A) || state.IsKeyDown(Keys.Left))
         {
-            
+            _rigidBody.AddForce(new Vector2(-BoostForce, 0));
         }
         if (state.IsKeyDown(Keys.D) || state.IsKeyDown(Keys.Right))
         {
-            
+            _rigidBody.AddForce(new Vector2(BoostForce, 0));
         }
         if (state.IsKeyDown(Keys.W) || state.IsKeyDown(Keys.Up))
         {
-            
+            _rigidBody.AddForce(new Vector2(0, -BoostForce));
         }
         if (state.IsKeyDown(Keys.S) || state.IsKeyDown(Keys.Down))
         {
-            
+            _rigidBody.AddForce(new Vector2(0, BoostForce));
         }
     }
     

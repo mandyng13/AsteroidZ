@@ -23,3 +23,16 @@ C:/Users/frede/GP/AsteroidZ/GameLib/obj/Debug/net9.0/ref/GameLib.dll
 /Users/mang/Downloads/GP1_Exercise/GameLib/obj/Debug/net9.0/refint/GameLib.dll
 /Users/mang/Downloads/GP1_Exercise/GameLib/obj/Debug/net9.0/GameLib.pdb
 /Users/mang/Downloads/GP1_Exercise/GameLib/obj/Debug/net9.0/ref/GameLib.dll
+/Users/mang/Documents/Uni/GamePhysics/GP1_Exercise/GameLib/bin/Debug/net9.0/GameLib.deps.json
+/Users/mang/Documents/Uni/GamePhysics/GP1_Exercise/GameLib/bin/Debug/net9.0/GameLib.dll
+/Users/mang/Documents/Uni/GamePhysics/GP1_Exercise/GameLib/bin/Debug/net9.0/GameLib.pdb
+/Users/mang/Documents/Uni/GamePhysics/GP1_Exercise/GameLib/obj/Debug/net9.0/GameLib.csproj.AssemblyReference.cache
+/Users/mang/Documents/Uni/GamePhysics/GP1_Exercise/GameLib/obj/Debug/net9.0/GameLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mang/Documents/Uni/GamePhysics/GP1_Exercise/GameLib/obj/Debug/net9.0/GameLib.AssemblyInfoInputs.cache
+/Users/mang/Documents/Uni/GamePhysics/GP1_Exercise/GameLib/obj/Debug/net9.0/GameLib.AssemblyInfo.cs
+/Users/mang/Documents/Uni/GamePhysics/GP1_Exercise/GameLib/obj/Debug/net9.0/GameLib.csproj.CoreCompileInputs.cache
+/Users/mang/Documents/Uni/GamePhysics/GP1_Exercise/GameLib/obj/Debug/net9.0/GameLib.sourcelink.json
+/Users/mang/Documents/Uni/GamePhysics/GP1_Exercise/GameLib/obj/Debug/net9.0/GameLib.dll
+/Users/mang/Documents/Uni/GamePhysics/GP1_Exercise/GameLib/obj/Debug/net9.0/refint/GameLib.dll
+/Users/mang/Documents/Uni/GamePhysics/GP1_Exercise/GameLib/obj/Debug/net9.0/GameLib.pdb
+/Users/mang/Documents/Uni/GamePhysics/GP1_Exercise/GameLib/obj/Debug/net9.0/ref/GameLib.dll

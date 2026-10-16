@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>/Users/mang/Downloads/GP1_Exercise/AsteroidZ/Content/Sprites/spaceMeteors_001.png</SourceFile>
+  <SourceFile>/Users/mang/Documents/Uni/GamePhysics/GP1_Exercise/AsteroidZ/Content/Sprites/spaceMeteors_001.png</SourceFile>
   <SourceTime>2026-09-17T12:22:33+02:00</SourceTime>
-  <DestFile>/Users/mang/Downloads/GP1_Exercise/AsteroidZ/Content/bin/DesktopGL/Content/Sprites/spaceMeteors_001.xnb</DestFile>
-  <DestTime>2026-10-06T14:39:44.8067186+02:00</DestTime>
+  <DestFile>/Users/mang/Documents/Uni/GamePhysics/GP1_Exercise/AsteroidZ/Content/bin/DesktopGL/Content/Sprites/spaceMeteors_001.xnb</DestFile>
+  <DestTime>2026-10-16T15:37:22.9021955+02:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2026-08-14T23:50:10+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

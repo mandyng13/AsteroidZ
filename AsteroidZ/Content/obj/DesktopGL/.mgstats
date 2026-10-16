@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/frede/GP/AsteroidZ/AsteroidZ/Content/Sprites/spaceMeteors_001.png","C:/Users/frede/GP/AsteroidZ/AsteroidZ/Content/bin/DesktopGL/Sprites/spaceMeteors_001.xnb","TextureProcessor","Texture2DContent",10257,775517,0,0827119
+"C:/Users/frede/GP/AsteroidZ/AsteroidZ/Content/Sprites/spaceMeteors_002.png","C:/Users/frede/GP/AsteroidZ/AsteroidZ/Content/bin/DesktopGL/Sprites/spaceMeteors_002.xnb","TextureProcessor","Texture2DContent",10655,727613,0,0101338
+"C:/Users/frede/GP/AsteroidZ/AsteroidZ/Content/Sprites/spaceMeteors_003.png","C:/Users/frede/GP/AsteroidZ/AsteroidZ/Content/bin/DesktopGL/Sprites/spaceMeteors_003.xnb","TextureProcessor","Texture2DContent",10361,778005,0,0111057
+"C:/Users/frede/GP/AsteroidZ/AsteroidZ/Content/Sprites/spaceMeteors_004.png","C:/Users/frede/GP/AsteroidZ/AsteroidZ/Content/bin/DesktopGL/Sprites/spaceMeteors_004.xnb","TextureProcessor","Texture2DContent",10324,736105,0,0117609
+"C:/Users/frede/GP/AsteroidZ/AsteroidZ/Content/Sprites/SpaceShip.png","C:/Users/frede/GP/AsteroidZ/AsteroidZ/Content/bin/DesktopGL/Sprites/SpaceShip.xnb","TextureProcessor","Texture2DContent",6696,148981,0,0033165

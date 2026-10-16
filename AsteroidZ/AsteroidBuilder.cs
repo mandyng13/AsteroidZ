@@ -51,13 +51,15 @@ public class AsteroidBuilder : UpdateComponent
             new SpriteRenderer.Builder(_asteroidTextures[textureIndex], 1).Build(),
             // Todo: Add rigidbody
             // Todo: Add Circle collider
+            new RigidBody {Mass = mass},
+            new CircleCollider {Radius = radius},
         ]);
 
         var startPosition = GetRandomAsteroidStartPosition();
         var newAsteroid = randomTemplate.Instantiate(startPosition, 0, scale);
         var direction = GetRandomInwardDirectionFromPosition(startPosition);
         // Todo: give the newAsteroid a starting push of 250000N in direction
-        
+        newAsteroid.GetComponent<RigidBody>().AddForce(direction * 250000f);
         _lastBuildTime = Core.TimeSinceStart;
     }
 

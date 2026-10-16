@@ -36,6 +36,8 @@ public class AsteroidZGame() : Core("AsteroidZ", 1000, 700)
             new SpriteRenderer.Builder(Content.Load<Texture2D>("Sprites/SpaceShip")).WithScale(0.3f).Build(),
             // Todo: Add a rigidbody with a mass of 10
             // Todo: Add a circle collider with a radius of 33
+            new RigidBody {Mass = 10f},
+            new CircleCollider {Radius = 33f},
             new ShipController(shipExplosionTemplate)
         ]);
 

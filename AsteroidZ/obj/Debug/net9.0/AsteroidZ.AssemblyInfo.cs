@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AsteroidZ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba7dcab3c96ecefae5b65a113238a3d89c5e148c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+180fa576cf4821a67db6ee478671f02fc0db802c")]
 [assembly: System.Reflection.AssemblyProductAttribute("AsteroidZ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AsteroidZ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

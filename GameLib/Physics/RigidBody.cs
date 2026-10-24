@@ -29,6 +29,8 @@ public class RigidBody : Component
     public void Update(double deltaTime)
     {
         // Todo: Do RigidBody simulations here
+        if (Mass <= 0) return;
+        
         Acceleration = Force / Mass;
         
         Velocity += Acceleration * (float)deltaTime;

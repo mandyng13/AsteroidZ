@@ -17,6 +17,7 @@ public class PhysicsWorld()
     public void Update(double deltaTime)
     {
         // Todo: Find and handle collisions between ActiveColliders using CollisionDetection.cs
+        CollisionDetection.DetectCollisions(ActiveColliders);
         foreach (var body in RigidBodies)
         {
             body.Update(deltaTime);

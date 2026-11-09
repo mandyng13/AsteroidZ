@@ -12,9 +12,9 @@ namespace GameLib.Physics;
 public class RigidBody : Component
 {
     public float Mass = 1f;
-    public Vector2 Velocity = Vector2.Zero;
-    public Vector2 Acceleration = Vector2.Zero;
-    public Vector2 Force = Vector2.Zero;
+    public Vector2 Velocity;
+    public Vector2 Acceleration;
+    public Vector2 Force;
     
     public override void Connect(GameObject gameObject)
     {
@@ -29,13 +29,11 @@ public class RigidBody : Component
     public void Update(double deltaTime)
     {
         // Todo: Do RigidBody simulations here
-        if (Mass <= 0) return;
-        
         Acceleration = Force / Mass;
         
-        Velocity += Acceleration * (float)deltaTime;
-        
         GameObject.Position += Velocity * (float)deltaTime;
+        
+        Velocity += Acceleration * (float)deltaTime;
 
         Force = Vector2.Zero;
     }
